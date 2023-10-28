@@ -9,3 +9,5 @@ Template project repository for DSCI-100
 26 Oct, 2023 - William and Jess added a markdown cell at the top of the notebook answering the first questions for the group proposal.
 
 27 Oct, 2023 - Doug added some markdown cells to explain the code cells. Added some more preliminary data wrangling: splitting into training and testing sets and checking to make sure they were split correctly. 
+
+28 Oct, 2023 - Doug added some exploratory visualization. 
