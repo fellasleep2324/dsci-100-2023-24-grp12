@@ -12,6 +12,8 @@ Template project repository for DSCI-100
 
 28 Oct, 2023 - Doug added some exploratory visualization. 
 
+28 Oct, 2023 - Boris added expected outcomes markdown cell with content.
+
 28 Oct, 2023 - Wilson added title and methodology cell.
 
 28 Oct, 2023 - Wilson added methodology content.
