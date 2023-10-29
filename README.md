@@ -19,3 +19,5 @@ Template project repository for DSCI-100
 28 Oct, 2023 - Wilson added methodology content.
 
 28 Oct, 2023 - Wilson revised.
+
+28 Oct, 2023 - Doug revised some words for word count and adjusted the visualization aesthetics.
