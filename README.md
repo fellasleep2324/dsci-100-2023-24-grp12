@@ -25,3 +25,5 @@ Template project repository for DSCI-100
 28 Oct, 2023 - Final revision - Wilson
 
 04 Dec, 2023 - Doug added a lot of code. I commented out out original code cells so they are there for reference. I ran knn for almost every combination of the predictors. I chose all the ones that are not just 0 or 1 since those would complicate things. They all looked the same graphically, which is to say that k = 1 is the best choice. Please go over it and let me know if I did something wrong. I will add more in terms of a final outcome later. I am tired today. 
+
+09 Dec, 2023 - Organizing and format - Wilson
