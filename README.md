@@ -29,3 +29,5 @@ Template project repository for DSCI-100
 09 Dec, 2023 - Organizing and format - Wilson
 
 09 Dec, 2023 - Mid finish of discussion - Wilson
+
+09 Dec, 2023 - Discussion basically done - Wilson
