@@ -38,4 +38,4 @@ Template project repository for DSCI-100
 
 09 Dec, 2023 - Minor tweeks - Wilson
 
-09 Dec, 2023 - Added ST depression explaination in intro - Doug
+09 Dec, 2023 - Added ST depression explaination in intro. Other minor changes - Doug
