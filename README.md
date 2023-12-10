@@ -37,3 +37,5 @@ Template project repository for DSCI-100
 09 Dec, 2023 - Added number rounding in confusion matrix comparrison cell to make more consise. - Doug
 
 09 Dec, 2023 - Minor tweeks - Wilson
+
+09 Dec, 2023 - Added ST depression explaination in intro - Doug
